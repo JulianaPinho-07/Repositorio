@@ -32,6 +32,4 @@ void main()
     }
 
     printf("O resultado eh: %.3f", n3);
-    
-    // Teste
 }
